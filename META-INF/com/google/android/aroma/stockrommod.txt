@@ -1,0 +1,24 @@
+            StockRom Mod Changelog 03-02-2019
+            
+            
+*Asus changelog
+1.Update Google security patch
+2.Fixed ramdom issue that Camer app without focus circle can't take picture
+3.Fixed icons misaligned issue at status bar
+
+*Stockrom Mod
+-added Aroma installer
+-added terminal
+-fixed frame drop
+-added zenui clock
+-include 3 kernel
+-Deodex
+-Aggresive debloat
+-Fix ui lag
+-enable wifi calling
+
+______________________________________________
+telegram Group : https://t.me/stockrommod
+Youtube Review : www.youtube.com/c/wahyu6070
+Blog           : wahyu6070.blogspot.com
+______________________________________________
